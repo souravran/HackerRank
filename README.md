@@ -1,6 +1,6 @@
 # HackerRank Solutions
 
-Here I will post the solutions for HackerRank problems. 
+Here I will post my accepted solutions for HackerRank problems. 
 
 
 ### Todos
